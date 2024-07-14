@@ -26,7 +26,10 @@ Using the BMI Calculator app is straightforward:
 4. Tap the "Recalculate" button to go back to the main screen where you can calculate your BMI again.
 
 ### Preview of the App
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-15 at 01 23 48](https://github.com/user-attachments/assets/327f9b70-f918-43b9-823d-181e5696415f)
+
+<img src="https://github.com/user-attachments/assets/327f9b70-f918-43b9-823d-181e5696415f" width="200" height="400" />
+
+
 
 
 ### Contact
